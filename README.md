@@ -3,7 +3,11 @@
 B.tech Student At NIET<br/>
 Electronic & Communication Engineering<br/>
 As tech Enthaustics, learn about the latest technological<br/>
-Connect me at [Linkdine](https://www.linkedin.com/in/puneet-kumar-06a204244/) [Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneetk5646@gmail.com)<br/>
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneet-kumar-06a204244/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puneetk5646@gmail.com)
+
 
 
 ## 🌐 Socials Media:
