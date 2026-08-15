@@ -32,6 +32,8 @@ As tech Enthaustics, learn about the latest technological<br/>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://shields.io)
+![Kubernetes](https://shields.io)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pun234&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
